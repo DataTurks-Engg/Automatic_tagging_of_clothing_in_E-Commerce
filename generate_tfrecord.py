@@ -2,7 +2,7 @@
 Usage:
 
 
-python generate_tfrecord.py --csv_input="C:/Users/Devika/Desktop/Dataurks/Project2-ImageTagging/Data/train_labels.csv" --output_path="C:/Users/Devika/Desktop/Dataurks/Project2-ImageTagging/Data/train.record"
+python generate_tfrecord.py --csv_input="../Data/train_labels.csv" --output_path="../Data/train.record"
   # From tensorflow/models/
   # Create train data:
   python generate_tfrecord.py --csv_input=data/train_labels.csv  --output_path=train.record
