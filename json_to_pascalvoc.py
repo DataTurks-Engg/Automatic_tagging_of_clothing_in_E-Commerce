@@ -6,8 +6,7 @@ import logging
 import requests
 from PIL import Image 
 
-''' running python json_to_pascalvoc.py C:\Users\Devika\Downloads\E-commerce_Tagging_for_clothing.json
-C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\images C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\pascalvoc_data '''
+''' running python json_to_pascalvoc.py FILENAME.json PATH_TO_OUTPUT_FOLDER  '''
 
 logging.getLogger().setLevel(logging.INFO)
 
