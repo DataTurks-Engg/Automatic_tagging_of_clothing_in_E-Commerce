@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\11ea5cd8-af2b-466a-948d-92193b430df1___Data_m-cw4651black-adidas-original-imaf3qhkjf9g8fwk.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\11ea5cd8-af2b-466a-948d-92193b430df1___Data_m-cw4651black-adidas-original-imaf3qhkjf9g8fwk.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>196</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Tshirts</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>19</xmin>
+		<xmax>196</xmax>
+		<ymin>76</ymin>
+		<ymax>281</ymax>
+	</bndbox>
+</object>
+</annotation>

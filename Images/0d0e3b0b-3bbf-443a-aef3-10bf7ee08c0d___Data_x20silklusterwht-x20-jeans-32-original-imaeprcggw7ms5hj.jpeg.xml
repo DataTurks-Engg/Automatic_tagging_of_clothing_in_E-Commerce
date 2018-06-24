@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0d0e3b0b-3bbf-443a-aef3-10bf7ee08c0d___Data_x20silklusterwht-x20-jeans-32-original-imaeprcggw7ms5hj.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0d0e3b0b-3bbf-443a-aef3-10bf7ee08c0d___Data_x20silklusterwht-x20-jeans-32-original-imaeprcggw7ms5hj.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>185</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Jeans</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>15</xmin>
+		<xmax>146</xmax>
+		<ymin>5</ymin>
+		<ymax>284</ymax>
+	</bndbox>
+</object>
+</annotation>

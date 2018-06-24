@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0a0fd53f-8be6-4da8-9e76-497708f705c3___Data_free-ls36-white-camey-original-imaexjhzzzzmn5ap.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0a0fd53f-8be6-4da8-9e76-497708f705c3___Data_free-ls36-white-camey-original-imaexjhzzzzmn5ap.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>145</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Skirts</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>7</xmin>
+		<xmax>127</xmax>
+		<ymin>36</ymin>
+		<ymax>154</ymax>
+	</bndbox>
+</object>
+</annotation>

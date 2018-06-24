@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\05ed4ad4-b60a-40aa-8290-11db0ae29e5f___Data_s-10681062-buynewtrend-original-imaequmkckwdyykv.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\05ed4ad4-b60a-40aa-8290-11db0ae29e5f___Data_s-10681062-buynewtrend-original-imaequmkckwdyykv.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>133</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Jackets</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>2</xmin>
+		<xmax>133</xmax>
+		<ymin>69</ymin>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

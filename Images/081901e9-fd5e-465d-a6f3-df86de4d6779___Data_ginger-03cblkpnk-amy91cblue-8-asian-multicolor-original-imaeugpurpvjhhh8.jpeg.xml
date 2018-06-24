@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\081901e9-fd5e-465d-a6f3-df86de4d6779___Data_ginger-03cblkpnk-amy91cblue-8-asian-multicolor-original-imaeugpurpvjhhh8.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\081901e9-fd5e-465d-a6f3-df86de4d6779___Data_ginger-03cblkpnk-amy91cblue-8-asian-multicolor-original-imaeugpurpvjhhh8.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>312</width>
+	<height>210</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Shoes</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>0</xmin>
+		<xmax>261</xmax>
+		<ymin>15</ymin>
+		<ymax>190</ymax>
+	</bndbox>
+</object>
+</annotation>

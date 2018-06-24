@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\06823417-3aae-49a3-bb6e-fceaf4b8be0d___Data_m-fa-903-c21-farenheit-original-imaf5ypj6kzpe2ve.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\06823417-3aae-49a3-bb6e-fceaf4b8be0d___Data_m-fa-903-c21-farenheit-original-imaf5ypj6kzpe2ve.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>312</width>
+	<height>137</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>sunglasses</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>5</xmin>
+		<xmax>312</xmax>
+		<ymin>5</ymin>
+		<ymax>133</ymax>
+	</bndbox>
+</object>
+</annotation>

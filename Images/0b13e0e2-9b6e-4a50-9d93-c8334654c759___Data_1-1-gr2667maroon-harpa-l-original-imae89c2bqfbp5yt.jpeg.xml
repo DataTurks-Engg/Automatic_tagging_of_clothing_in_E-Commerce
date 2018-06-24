@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0b13e0e2-9b6e-4a50-9d93-c8334654c759___Data_1-1-gr2667maroon-harpa-l-original-imae89c2bqfbp5yt.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0b13e0e2-9b6e-4a50-9d93-c8334654c759___Data_1-1-gr2667maroon-harpa-l-original-imae89c2bqfbp5yt.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>130</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Tops</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>6</xmin>
+		<xmax>130</xmax>
+		<ymin>81</ymin>
+		<ymax>242</ymax>
+	</bndbox>
+</object>
+</annotation>

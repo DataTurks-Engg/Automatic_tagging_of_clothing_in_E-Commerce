@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\00a3b9cb-5fda-4fd3-bdc8-f6d044cec8b8___Data_32-argt0804lt-grey-arrow-sport-original-imaf276wnwzzfqtr.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\00a3b9cb-5fda-4fd3-bdc8-f6d044cec8b8___Data_32-argt0804lt-grey-arrow-sport-original-imaf276wnwzzfqtr.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>177</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Trousers</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>39</xmin>
+		<xmax>160</xmax>
+		<ymin>7</ymin>
+		<ymax>286</ymax>
+	</bndbox>
+</object>
+</annotation>

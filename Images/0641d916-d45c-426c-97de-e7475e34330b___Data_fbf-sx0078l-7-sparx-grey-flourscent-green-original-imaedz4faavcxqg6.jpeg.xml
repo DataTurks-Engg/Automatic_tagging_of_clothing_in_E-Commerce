@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0641d916-d45c-426c-97de-e7475e34330b___Data_fbf-sx0078l-7-sparx-grey-flourscent-green-original-imaedz4faavcxqg6.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0641d916-d45c-426c-97de-e7475e34330b___Data_fbf-sx0078l-7-sparx-grey-flourscent-green-original-imaedz4faavcxqg6.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>312</width>
+	<height>211</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Shoes</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>4</xmin>
+		<xmax>312</xmax>
+		<ymin>3</ymin>
+		<ymax>208</ymax>
+	</bndbox>
+</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\086eb430-6d1e-4fb4-b6b9-903d6dfd1cef___Data_38-jog-iceblue-urbano-fashion-original-imaf5bzbhcgbqfub.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\086eb430-6d1e-4fb4-b6b9-903d6dfd1cef___Data_38-jog-iceblue-urbano-fashion-original-imaf5bzbhcgbqfub.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>157</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Trousers</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>16</xmin>
+		<xmax>133</xmax>
+		<ymin>18</ymin>
+		<ymax>275</ymax>
+	</bndbox>
+</object>
+</annotation>

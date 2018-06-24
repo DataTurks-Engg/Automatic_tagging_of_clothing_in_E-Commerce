@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\15f407da-df96-4a27-80b3-34e9978f5a1c___Data_30-18298-0338blue-levi-s-original-imaexxbywa4mzwqw.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\15f407da-df96-4a27-80b3-34e9978f5a1c___Data_30-18298-0338blue-levi-s-original-imaexxbywa4mzwqw.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>234</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Jeans</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>36</xmin>
+		<xmax>135</xmax>
+		<ymin>28</ymin>
+		<ymax>271</ymax>
+	</bndbox>
+</object>
+</annotation>

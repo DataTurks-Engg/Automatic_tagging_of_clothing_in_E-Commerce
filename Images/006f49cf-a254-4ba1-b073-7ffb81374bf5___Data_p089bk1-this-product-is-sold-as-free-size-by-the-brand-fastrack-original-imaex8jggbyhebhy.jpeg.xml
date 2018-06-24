@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\006f49cf-a254-4ba1-b073-7ffb81374bf5___Data_p089bk1-this-product-is-sold-as-free-size-by-the-brand-fastrack-original-imaex8jggbyhebhy.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\006f49cf-a254-4ba1-b073-7ffb81374bf5___Data_p089bk1-this-product-is-sold-as-free-size-by-the-brand-fastrack-original-imaex8jggbyhebhy.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>312</width>
+	<height>153</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>sunglasses</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>1</xmin>
+		<xmax>312</xmax>
+		<ymin>1</ymin>
+		<ymax>151</ymax>
+	</bndbox>
+</object>
+</annotation>

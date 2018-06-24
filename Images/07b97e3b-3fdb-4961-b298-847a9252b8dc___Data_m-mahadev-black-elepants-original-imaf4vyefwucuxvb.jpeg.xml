@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\07b97e3b-3fdb-4961-b298-847a9252b8dc___Data_m-mahadev-black-elepants-original-imaf4vyefwucuxvb.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\07b97e3b-3fdb-4961-b298-847a9252b8dc___Data_m-mahadev-black-elepants-original-imaf4vyefwucuxvb.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>153</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Tshirts</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>6</xmin>
+		<xmax>153</xmax>
+		<ymin>73</ymin>
+		<ymax>261</ymax>
+	</bndbox>
+</object>
+</annotation>

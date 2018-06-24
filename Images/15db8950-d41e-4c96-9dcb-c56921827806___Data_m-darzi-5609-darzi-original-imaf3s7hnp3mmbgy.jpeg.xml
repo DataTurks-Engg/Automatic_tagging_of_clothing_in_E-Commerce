@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\15db8950-d41e-4c96-9dcb-c56921827806___Data_m-darzi-5609-darzi-original-imaf3s7hnp3mmbgy.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\15db8950-d41e-4c96-9dcb-c56921827806___Data_m-darzi-5609-darzi-original-imaf3s7hnp3mmbgy.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>168</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Tops</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>29</xmin>
+		<xmax>168</xmax>
+		<ymin>71</ymin>
+		<ymax>247</ymax>
+	</bndbox>
+</object>
+</annotation>

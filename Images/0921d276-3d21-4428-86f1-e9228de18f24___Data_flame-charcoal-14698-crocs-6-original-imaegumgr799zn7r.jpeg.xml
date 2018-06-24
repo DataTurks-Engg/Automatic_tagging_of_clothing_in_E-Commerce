@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0921d276-3d21-4428-86f1-e9228de18f24___Data_flame-charcoal-14698-crocs-6-original-imaegumgr799zn7r.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\0921d276-3d21-4428-86f1-e9228de18f24___Data_flame-charcoal-14698-crocs-6-original-imaegumgr799zn7r.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>312</width>
+	<height>260</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Shoes</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>9</xmin>
+		<xmax>312</xmax>
+		<ymin>10</ymin>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+</annotation>

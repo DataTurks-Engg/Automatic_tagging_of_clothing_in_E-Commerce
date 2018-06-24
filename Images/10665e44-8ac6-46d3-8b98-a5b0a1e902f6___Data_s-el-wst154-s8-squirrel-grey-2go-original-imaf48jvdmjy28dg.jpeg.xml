@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\10665e44-8ac6-46d3-8b98-a5b0a1e902f6___Data_s-el-wst154-s8-squirrel-grey-2go-original-imaf48jvdmjy28dg.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\10665e44-8ac6-46d3-8b98-a5b0a1e902f6___Data_s-el-wst154-s8-squirrel-grey-2go-original-imaf48jvdmjy28dg.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>129</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Skirts</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>20</xmin>
+		<xmax>129</xmax>
+		<ymin>13</ymin>
+		<ymax>130</ymax>
+	</bndbox>
+</object>
+</annotation>

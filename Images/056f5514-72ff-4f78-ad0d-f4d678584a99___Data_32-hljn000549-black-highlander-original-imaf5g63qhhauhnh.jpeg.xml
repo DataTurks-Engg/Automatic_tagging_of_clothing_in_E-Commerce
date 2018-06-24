@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\056f5514-72ff-4f78-ad0d-f4d678584a99___Data_32-hljn000549-black-highlander-original-imaf5g63qhhauhnh.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\056f5514-72ff-4f78-ad0d-f4d678584a99___Data_32-hljn000549-black-highlander-original-imaf5g63qhhauhnh.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>193</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Trousers</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>69</xmin>
+		<xmax>178</xmax>
+		<ymin>2</ymin>
+		<ymax>268</ymax>
+	</bndbox>
+</object>
+</annotation>

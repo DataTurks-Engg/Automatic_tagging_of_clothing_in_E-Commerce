@@ -1,0 +1,27 @@
+<annotation>
+<folder>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images</folder>
+<filename>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\00718b6e-1adb-44c6-ad24-cfeb78ddb2c6___Data_m-800200-010-nike-original-imaffzqbhpxhycnb.jpeg</filename>
+<path>C:\Users\Devika\Desktop\Dataurks\Project2-ImageTagging\complete_data\images\00718b6e-1adb-44c6-ad24-cfeb78ddb2c6___Data_m-800200-010-nike-original-imaffzqbhpxhycnb.jpeg</path>
+<source>
+	<database>Unknown</database>
+</source>
+<size>
+	<width>168</width>
+	<height>312</height>
+	<depth>Unspecified</depth>
+</size>
+<segmented>Unspecified</segmented>
+<object>
+	<name>Jackets</name>
+	<pose>Unspecified</pose>
+	<truncated>Unspecified</truncated>
+	<difficult>Unspecified</difficult>
+	<occluded>Unspecified</occluded>
+	<bndbox>
+		<xmin>10</xmin>
+		<xmax>168</xmax>
+		<ymin>74</ymin>
+		<ymax>253</ymax>
+	</bndbox>
+</object>
+</annotation>
