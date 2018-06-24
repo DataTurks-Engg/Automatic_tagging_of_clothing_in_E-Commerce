@@ -26,10 +26,10 @@ def xml_to_csv(path):
 
 
 def main():
-     for directory in ["C:/Users/Devika/Desktop/Dataurks/Project2-ImageTagging/pv_complete"]:
-         image_path = os.path.join(os.getcwd(), "C:/Users/Devika/Desktop/Dataurks/Project2-ImageTagging/pv_complete")
+     for directory in ["PATH_TO_DIRECTORY_WITH_PASCAL_VOC_DATA"]:
+         image_path = os.path.join(os.getcwd(), "PATH_TO_DIRECTORY_WITH_PASCAL_VOC_DATA")
          xml_df = xml_to_csv(image_path)
-         xml_df.to_csv("C:/Users/Devika/Desktop/Dataurks/Project2-ImageTagging/clothing.csv", index=None)
+         xml_df.to_csv("NAME_OF_CSV_FILE.csv", index=None)
          print('Successfully converted xml to csv.')
 
 
