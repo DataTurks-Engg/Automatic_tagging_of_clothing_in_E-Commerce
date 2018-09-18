@@ -455,8 +455,6 @@ Intelligence](https://blog.usejournal.com/tagged/artificial-intelligence?source=
 * [Image
 Recognition](https://blog.usejournal.com/tagged/image-recognition?source=post)
 
-From a quick cheer to a standing ovation, clap to show how much you enjoyed this
-story.
 
 ### [DataTurks: Data Annotations Made Super
 Easy](https://blog.usejournal.com/@dataturks)
